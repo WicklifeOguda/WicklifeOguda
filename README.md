@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wicklife Oguda
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning a lot to do with coding
-- 💞️ I’m looking to collaborate on enlightening one another with regards to code.
+- 👀 A passionate Software Developer with a background in Computer Science.
+- 🌱 I’m continuously learning to improve my skills and make an impact with technology.
+- 💞️ I look forward to connecting and building relationships that improve social and career development.
 - 📫 How to reach me: via my email ogudawicklife1@gmail.com
 
 <!---
